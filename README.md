@@ -2,10 +2,10 @@
 
 Files are numbered 1 to N, N being the question numbers
 
-Please run
+Please run the following command to execute any solution:
 
 ```
 node <n>.js
 ```
 
-to execute the code
+Additional note: These may or may not be the most efficient solution to the answers. If you wish to attempt project euler, I highly suggest giving it a go yourself without looking at the solutions first.

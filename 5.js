@@ -54,4 +54,4 @@ for(number in divisors){
     smallestNumber *= Number(number) ** divisors[number];
 }
 
-console.log(smallestNumber);
+console.log(smallestNumber); // Answer: 232792560

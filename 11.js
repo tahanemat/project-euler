@@ -114,4 +114,4 @@ for (let i = 19; i >= 3; i--){
     }
 }
 
-console.log(largestProduct);
+console.log(largestProduct); // Answer: 70600674

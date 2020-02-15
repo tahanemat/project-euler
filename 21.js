@@ -39,4 +39,4 @@ let sum = amicable.reduce((acc, cur) => {
     return acc + cur;
 });
 
-console.log(sum);
+console.log(sum); // Answer: 31626

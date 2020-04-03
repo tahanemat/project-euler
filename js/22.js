@@ -10,7 +10,7 @@
 
 var fs = require('fs');
 
-let input = fs.readFileSync('p022_names.txt', 'utf8');
+let input = fs.readFileSync('../p022_names.txt', 'utf8');
 
 let score = input.split(',').map((Element) => {
     return Element.slice(1,-1); // removing apostrophes

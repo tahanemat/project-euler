@@ -1,4 +1,4 @@
-*** Work in progress ***
+*** Always a work in progress ***
 
 This is meant for personal practice for general use of differnet programming languages.
 

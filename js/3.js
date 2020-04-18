@@ -13,7 +13,7 @@ let largestPrime = 2;
 let i = largestPrime;
 
 while(number > 1){
-    if (number % i == 0){
+    while (number % i == 0){
         largestPrime = i;
         number /= i;
     }
